@@ -79,11 +79,11 @@ caption {
 
 div {
   background-color: bisque;
-  
+
   border-radius: 0 0 0.5em 0.5em;
   padding: 1.6em;
 }
 
 div, caption {
-  background-image: url(C:/Users/jamal/Pictures/preview.jpg); 
+  background-image: url(C:/Users/jamal/Pictures/preview.jpg);
 }
